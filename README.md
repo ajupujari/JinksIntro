@@ -20,11 +20,11 @@ I'm broadly interested in Data Engineering , ETL concepts and deep learning, wit
 
 **Languages and Tools:**
 
-<code><img width="40" height="40" src="assests/python.png"></code>
-<code><img width="40" height="40" src="assests/pytorch.png"></code>
-<code><img width="40" height="40" src="assests/tensorflow.png"></code>
-<code><img width="40" height="40" src="assests/keras.png"></code>
-<code><img width="40" height="40" src="assests/cpp.jpg"></code>
-<code><img width="40" height="40" src="assests/django.png"></code>
+<code><img width="40" height="40" src="python.png"></code>
+<code><img width="40" height="40" src="pytorch.png"></code>
+<code><img width="40" height="40" src="tensorflow.png"></code>
+<code><img width="40" height="40" src="keras.png"></code>
+<code><img width="40" height="40" src="cpp.jpg"></code>
+<code><img width="40" height="40" src="django.png"></code>
 
 ![Jinks's github stats](https://github-readme-stats.vercel.app/api?username=ajupujari&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
